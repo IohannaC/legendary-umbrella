@@ -37,5 +37,5 @@ public class ItemDeVenda {
 	public double getSubTotal() {
 		return produto.getPreco() * quantidade;
 	}
-	
+	//oi felipe
 }
