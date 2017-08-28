@@ -1,12 +1,9 @@
-package Controller;
+package com.example.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-
-import com.example.demo.ProdutoRepositorioV2;
-import com.example.demo.VendaRepositorioV2;
 
 @Controller
 public class VendasController2 {
